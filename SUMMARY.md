@@ -19,6 +19,7 @@
   * [Lunar Assistant Configuration Commands](reference/command-reference/lunar-assistant-configuration-commands.md)
   * [User Commands](reference/command-reference/user-commands.md)
 * [Architecture](reference/architecture.md)
+* [FAQ](reference/faq.md)
 
 ## About Us
 
