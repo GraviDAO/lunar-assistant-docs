@@ -35,6 +35,13 @@ If you see a marketplace missing from the above list, feel free to reach out so 
 
 The mapping between discord user accounts and terra wallet addresses is stored in a centralized database that only Lunar Assistant maintainers have access to. Lunar Assistant will never share or sell any data, and only looks at the database for debugging purposes.
 
+## Is Lunar Assistant Open Source?
+
+Yes it is! You can look at the code below:
+
+* Lunar Assistant Discord Bot: [https://github.com/GraviDAO/lunar-assistant-bot](https://github.com/GraviDAO/lunar-assistant-bot)
+* Lunar Assistant App: [https://github.com/GraviDAO/lunar-assistant-app](https://github.com/GraviDAO/lunar-assistant-app)
+
 \
 
 
