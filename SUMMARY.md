@@ -21,6 +21,6 @@
 * [Architecture](reference/architecture.md)
 * [FAQ](reference/faq.md)
 
-## About Us
+## About
 
-* [Lunar Assistant](about-us/lunar-assistant.md)
+* [Lunar Assistant](about/lunar-assistant.md)
