@@ -8,6 +8,10 @@ description: About Lunar Assistant
 
 Lunar Assistant was envisioned by GraviDAO as a gift to the Terra ecosystem and developed by [ruborcalor](https://twitter.com/ruborcalor).
 
+## Discord
+
+You can join the following discord to get in touch with the Lunar Assistant team and get advice for onboarding the Lunar Assistant to your discord server: [https://discord.gg/b3sW7yZC](https://discord.gg/b3sW7yZC)&#x20;
+
 ## Donors
 
 Lunar Assistant is open source and made available completely free. Without any revenue streams,  it is funded by the kindness of its donors. Thank you!!! ❤️
