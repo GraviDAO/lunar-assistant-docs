@@ -23,4 +23,4 @@
 
 ## About
 
-* [Lunar Assistant](about/lunar-assistant.md)
+* [Lunar Assistant](about-us/lunar-assistant.md)

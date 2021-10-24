@@ -1,5 +1,5 @@
 ---
-description: About Us
+description: About Lunar Assistant
 ---
 
 # Lunar Assistant
