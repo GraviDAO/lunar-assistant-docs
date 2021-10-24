@@ -18,3 +18,23 @@ Unfortunately, Terra Station Mobile does not support signing dummy transactions;
 
 If the demand for mobile support remains high despite the transaction fees that would be required by users on mobile, we may consider supporting it in the future. For now though, given that everyone has the Terra Chrome Extension and linking a wallet is a one time process, there are no plans to support mobile.
 
+## Are NFTs listed on marketplaces considered during role assignment?
+
+Lunar Assistant supports NFTs listed on the following marketplaces:
+
+* RandomEarth
+* Knowhere.art (Coming soon)
+
+This means that NFTs listed on the above marketplaces will be considered during role assignment, and that NFTs listed on other marketplaces will not be considering during role assignment.
+
+These marketplaces are supported because of contributions by the marketplace teams. For every marketplace that the lunar assistant supports, it must be done in collaboration with the marketplace's team.
+
+If you see a marketplace missing from the above list, feel free to reach out so that we can get a collaboration started with the missing marketplace.
+
+## Where are the saved wallet addresses stored?
+
+The mapping between discord user accounts and terra wallet addresses is stored in a centralized database that only Lunar Assistant maintainers have access to. Lunar Assistant will never share or sell any data, and only looks at the database for debugging purposes.
+
+\
+
+
