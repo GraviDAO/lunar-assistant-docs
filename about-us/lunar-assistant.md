@@ -10,7 +10,7 @@ Lunar Assistant was envisioned by GraviDAO as a gift to the Terra ecosystem and 
 
 ## Discord
 
-You can join the following discord to get in touch with the Lunar Assistant team and get advice for onboarding the Lunar Assistant to your discord server: [https://discord.gg/b3sW7yZC](https://discord.gg/b3sW7yZC)&#x20;
+You can join the following discord to get in touch with the Lunar Assistant team and get advice for onboarding the Lunar Assistant to your discord server: [https://discord.gg/8R9jarWCr2](https://discord.gg/8R9jarWCr2)
 
 ## Donors
 
