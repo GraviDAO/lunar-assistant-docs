@@ -16,13 +16,15 @@ Use `/lunar-configure add-rule` to add a token permissioned role to your server.
 * token-ids (optional, all by default) : A list of token ids that the rule is restricted to. This can be used to add nft trait based roles. Calculate the list of token ids specific to a trait (galactic glitch for example) and then pass these token ids in when creating a rule.
 
 {% hint style="info" %}
-Example 1: `/lunar-configure add-rule nft-address: terra103z9cnqm8psy0nyxqtugg6m7xnwvlkqdzm4s4k role: @Galactic Civilian`
+Example 1: `/lunar-configure add-rule nft-address: terra103z9cnqm8psy0nyxqtugg6m7xnwvlkqdzm4s4k role: @Galactic Citizen`
 
 This adds a rule which grants anybody with at least one galactic punk (the nft address points to the galactic punk contract) the role `Galactic Civilian`
 {% endhint %}
 
 {% hint style="info" %}
-Example 2: `/lunar-configure add-rule nft-address: terra103z9cnqm8psy0nyxqtugg6m7xnwvlkqdzm4s4k role: @Galactic Civilian quantity: 2 token-ids:`\["1","2","3","4","5","7"]
+Example 2: `/lunar-configure add-rule nft-address: terra103z9cnqm8psy0nyxqtugg6m7xnwvlkqdzm4s4k role: @Galactic Glitch quantity: 2 token-ids:`\["1","2","3","4","5","7"]
+
+This adds a rule which grants anybody with at least two galactic punks with the specified token ids the role `Galactic Glitch`&#x20;
 {% endhint %}
 
 ![The output of running /lunar-configure add-rule](<../../.gitbook/assets/image (2).png>)
