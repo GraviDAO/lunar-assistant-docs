@@ -8,7 +8,7 @@ description: Your new Discord community building tool :)
 
 Welcome to Lunar Assistant! Here you'll find all the documentation you need to get up and running with the Lunar Assistant Discord Bot.
 
-Lunar Assistant is a Discord bot that helps with the community management of NFT communities on the Terra blockchain.** **Quickly set up NFT community voting, private channels for those with certain types of NFTs, and public whitelists for mints.
+Lunar Assistant is a Discord bot that helps with the community management of NFT communities on the Terra blockchain. **** Quickly set up NFT community voting, private channels for those with certain types of NFTs, and public whitelists for mints.
 
 ## Core Features
 
