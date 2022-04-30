@@ -6,17 +6,25 @@ You can use an existing server for which you are an admin, or use the following 
 
 ## 2. Add Lunar Assistant to your Discord Server
 
-You can add Lunar Assistant to your Discord Server by following this link: [https://discord.com/api/oauth2/authorize?client_id=893178480303407135\&permissions=268435456\&scope=applications.commands%20bot](https://discord.com/api/oauth2/authorize?client_id=893178480303407135\&permissions=268435456\&scope=applications.commands%20bot)
+You can add Lunar Assistant to your Discord Server by following this link: [https://discord.com/api/oauth2/authorize?client\_id=893178480303407135\&permissions=268435456\&scope=applications.commands%20bot](https://discord.com/api/oauth2/authorize?client\_id=893178480303407135\&permissions=268435456\&scope=applications.commands%20bot)
 
 ## 3. Assign the Lunar Commander Role
 
 Upon adding the Lunar Assistant to your server, the Lunar Assistant slash commands will be registered with your server, and the `Lunar Commander` role will be created. Only those with the `Lunar Commander` role will be able to run Lunar Assistant configuration commands, so assign the `Lunar Commander` role to everyone that you want to be able to configure Lunar Assistant.
 
-## 4. Create Your Hierarchy of Roles! 
+It is also required to add Lunar Commander to the /lunar-configure command
+
+![](../../.gitbook/assets/image.png)
+
+![](<../../.gitbook/assets/image (3).png>)
+
+&#x20;![](<../../.gitbook/assets/image (1).png>)
+
+## 4. Create Your Hierarchy of Roles!&#x20;
 
 Create the roles that you will use to manage the server. Place the "Lunar Assistant" role above any roles the bot is assigning. This is necessary for Lunar Assistant to assign roles properly.
 
-## 5. Configure the Lunar Assistant 
+## 5. Configure the Lunar Assistant&#x20;
 
 Configure the Lunar Assistant to your liking via the relevant `/lunar-configure` commands. Learn more about assigning roles based on wallet holdings in the Token Permissioned Roles page:
 

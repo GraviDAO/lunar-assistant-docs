@@ -27,7 +27,7 @@ Example 2: `/lunar-configure add-nft-rule nft-address: terra103z9cnqm8psy0nyxqtu
 This adds a rule which grants anybody with at least two galactic punks with the specified token ids the role `Galactic Glitch`&#x20;
 {% endhint %}
 
-![The output of running /lunar-configure add-rule](<../../.gitbook/assets/image (2) (1).png>)
+![The output of running /lunar-configure add-rule](<../../.gitbook/assets/image (2) (1) (1).png>)
 
 ## /lunar-configure add-staked-nft-rule
 
@@ -90,7 +90,7 @@ This adds a rule which grants anybody for which the api returns true the role Fr
 
 Use `/lunar-configure view-rules` to view the rules currently configured for your server. Example response:
 
-![The ouput of running /lunar-configure view-rules](<../../.gitbook/assets/image (1).png>)
+![The ouput of running /lunar-configure view-rules](<../../.gitbook/assets/image (1) (1).png>)
 
 ## /lunar-configure remove-rule
 

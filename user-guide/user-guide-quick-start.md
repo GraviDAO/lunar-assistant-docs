@@ -10,7 +10,7 @@ description: >-
 
 Start by linking a wallet to your discord account with the Lunar Assistant by running `/lunar-link`. Example response:
 
-![The output of running /lunar-link](<../.gitbook/assets/image (3).png>)
+![The output of running /lunar-link](<../.gitbook/assets/image (3) (1).png>)
 
 Click the link to visit the Lunar Assistant website where you can link a wallet with your discord account.
 
@@ -18,7 +18,7 @@ Click the link to visit the Lunar Assistant website where you can link a wallet 
 
 Linking your wallet is a two step process. First connect your wallet, and then sign a transaction proving ownership of the wallet. This transaction will never be sent to mainnet and is completely free.
 
-![The Lunar Assistant wallet linking page after signing a transaction](<../.gitbook/assets/image (1) (1).png>)
+![The Lunar Assistant wallet linking page after signing a transaction](<../.gitbook/assets/image (1) (1) (1).png>)
 
 After signing the transaction you will see a message to return to Discord and run `/lunar-view-roles` in order to see what roles you have been granted.
 
