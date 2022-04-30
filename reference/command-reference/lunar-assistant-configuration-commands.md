@@ -38,6 +38,36 @@ A list of token ids that the rule is restricted to. All tokens by default.
 {% endswagger-response %}
 {% endswagger %}
 
+{% swagger method="get" path="" baseUrl="/lunar-configure add-staked-nft-rule" summary="" %}
+{% swagger-description %}
+Adds a rule for granting a staked nft permissioned role to users. When a user's wallet meets the conditions of the rule, they will be granted the relevant role.
+{% endswagger-description %}
+
+{% swagger-parameter in="body" name="staked-nft-address" required="true" type="string" %}
+The staking contract address against which to check for nft ownership
+{% endswagger-parameter %}
+
+{% swagger-parameter in="body" name="role" type="Role" required="true" %}
+The role to give to users which meet this rule.
+{% endswagger-parameter %}
+
+{% swagger-parameter in="body" name="quantity" type="number" %}
+The quantity of matching nfts that a user must hold in order to meet the rule. 1 by default.
+{% endswagger-parameter %}
+
+{% swagger-parameter in="body" name="token_ids" type="string" %}
+A list of token ids that the rule is restricted to. All tokens by default.
+{% endswagger-parameter %}
+
+{% swagger-response status="200: OK" description="" %}
+```javascript
+{
+    // Response
+}
+```
+{% endswagger-response %}
+{% endswagger %}
+
 {% swagger method="get" path="lunar-configure add-cw20-rule" baseUrl="/" summary="" %}
 {% swagger-description %}
 Adds a rule for granting a cw20 permissioned role to users. When a user's wallet meets the conditions of the rule, they will be granted the relevant role.
