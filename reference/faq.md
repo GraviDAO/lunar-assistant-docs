@@ -23,7 +23,9 @@ If the demand for mobile support remains high despite the transaction fees that 
 Lunar Assistant supports NFTs listed on the following marketplaces:
 
 * RandomEarth
-* Knowhere.art (Coming soon)
+* Knowhere.art
+* Messier art
+* OnePlanet (coming soon)
 
 This means that NFTs listed on the above marketplaces will be considered during role assignment, and that NFTs listed on other marketplaces will not be considering during role assignment.
 
