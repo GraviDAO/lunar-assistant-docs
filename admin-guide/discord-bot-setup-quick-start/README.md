@@ -12,7 +12,7 @@ You can add Lunar Assistant to your Discord Server by following this link: [http
 
 Upon adding the Lunar Assistant to your server, the Lunar Assistant slash commands will be registered with your server, and the `Lunar Commander` role will be created. Only those with the `Lunar Commander` role will be able to run Lunar Assistant configuration commands, so assign the `Lunar Commander` role to everyone that you want to be able to configure Lunar Assistant.
 
-It is also required to add Lunar Commander to the /lunar-configure command
+As of 2022-04-28 following a discord update, it is also required to add Lunar Commander to the /lunar-configure command
 
 ![](../../.gitbook/assets/image.png)
 
