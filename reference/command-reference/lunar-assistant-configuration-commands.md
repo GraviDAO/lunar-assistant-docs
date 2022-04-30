@@ -94,6 +94,28 @@ The quantity of matching cw20 tokens that a user must hold in order to meet the 
 {% endswagger-response %}
 {% endswagger %}
 
+{% swagger method="get" path="" baseUrl="/lunar-configure add-api-rule" summary="" %}
+{% swagger-description %}
+Adds a rule for granting an api permissioned role to users. When a user's wallet meets the conditions of the rule, they will be granted the relevant role.
+{% endswagger-description %}
+
+{% swagger-parameter in="body" name="api-url" required="true" type="string" %}
+The url of your custom api against which to check for permission.
+{% endswagger-parameter %}
+
+{% swagger-parameter in="body" name="role" type="Role" required="true" %}
+The role to give to users which meet this rule.
+{% endswagger-parameter %}
+
+{% swagger-response status="200: OK" description="" %}
+```javascript
+{
+    // Response
+}
+```
+{% endswagger-response %}
+{% endswagger %}
+
 {% swagger method="get" path="lunar-configure view-rules" baseUrl="/" summary="" %}
 {% swagger-description %}
 View the rules currently configured for the server.
