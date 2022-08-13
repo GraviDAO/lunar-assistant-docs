@@ -13,7 +13,7 @@ Lunar Assistant is a Discord bot that helps with the community management of NFT
 ## Core Features
 
 * Manage discord communities based on the contents of discord user wallet addresses.
-* Support for multiple user wallets across multiple blockchains.
+* Support for linking multiple user wallets across multiple blockchains to a single discord user.
 * Declare rules for automatically assigning roles based on the contents of discord user wallet addresses. The possibilities are endless, but a common use case is to create private channels that only users with specified wallet holdings have access to.
 * Plug and play crypto whitelisting based on Discord's KYC process (Coming Soon). Don't reinvent the wheel :)
 

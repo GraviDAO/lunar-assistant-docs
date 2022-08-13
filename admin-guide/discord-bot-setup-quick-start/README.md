@@ -6,13 +6,16 @@ You can use an existing server for which you are an admin, or use the following 
 
 ## 2. Add Lunar Assistant to your Discord Server
 
-You can add Lunar Assistant to your Discord Server by following this link: [https://discord.com/api/oauth2/authorize?client\_id=893178480303407135\&permissions=268435456\&scope=applications.commands%20bot](https://discord.com/api/oauth2/authorize?client\_id=893178480303407135\&permissions=268435456\&scope=applications.commands%20bot)
+You can add Lunar Assistant to your Discord Server by following this link: [https://discord.com/api/oauth2/authorize?client\_id=1007464384492212254\&permissions=268435456\&scope=applications.commands%20bot](https://discord.com/api/oauth2/authorize?client\_id=1007464384492212254\&permissions=268435456\&scope=applications.commands%20bot)
 
-## 3. Assign the Lunar Commander Role
+## 3. Assign a role to the admin commands
 
-Upon adding the Lunar Assistant to your server, the Lunar Assistant slash commands will be registered with your server, and the `Lunar Commander` role will be created. Only those with the `Lunar Commander` role will be able to run Lunar Assistant configuration commands, so assign the `Lunar Commander` role to everyone that you want to be able to configure Lunar Assistant.
+Upon adding the Lunar Assistant to your server, the Lunar Assistant slash commands will be registered with your server. By default, Lunar Assistant configuration and poll commands are restricted, so assign these commands to everyone that you want to be able to configure Lunar Assistant.
 
-As of 2022-04-28 following a discord update, it is also required to add Lunar Commander to the /lunar-configure command
+Here is how we did it: \
+1- We created an admin role for Lunar Assistant called Lunar Commander. Feel free to use any name you prefer for the admin role.\
+2- We assigned all our admin users to Lunar Commander. \
+3- Finally we allowed the configure and poll commands to Lunar Commander as you can see in the screenshots below:
 
 ![](../../.gitbook/assets/image.png)
 
