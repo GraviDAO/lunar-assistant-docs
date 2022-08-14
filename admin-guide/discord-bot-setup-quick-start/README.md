@@ -17,11 +17,11 @@ Here is how we did it: \
 2- We assigned all our admin users to Lunar Commander. \
 3- Finally we allowed the configure and poll commands to Lunar Commander as you can see in the screenshots below:
 
-![](../../.gitbook/assets/image.png)
-
 ![](<../../.gitbook/assets/image (3).png>)
 
-&#x20;![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
+
+&#x20;![](<../../.gitbook/assets/image (1) (1).png>)
 
 ## 4. Create Your Hierarchy of Roles!&#x20;
 
