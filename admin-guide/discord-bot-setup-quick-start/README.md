@@ -6,7 +6,7 @@ You can use an existing server for which you are an admin, or use the following 
 
 ## 2. Add Lunar Assistant to your Discord Server
 
-You can add Lunar Assistant to your Discord Server by following this link: [https://discord.com/api/oauth2/authorize?client\_id=1007464384492212254\&permissions=268435456\&scope=applications.commands%20bot](https://discord.com/api/oauth2/authorize?client\_id=1007464384492212254\&permissions=268435456\&scope=applications.commands%20bot)
+You can add Lunar Assistant to your Discord Server by following this link: [https://discord.com/api/oauth2/authorize?client\_id=1007464384492212254\&permissions=309506165760\&scope=applications.commands%20bot](https://discord.com/api/oauth2/authorize?client\_id=1007464384492212254\&permissions=309506165760\&scope=applications.commands%20bot)
 
 ## 3. Assign a role to the admin commands
 
